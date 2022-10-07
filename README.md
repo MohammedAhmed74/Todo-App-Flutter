@@ -1,6 +1,11 @@
 # todo_list
 
-A new Flutter project.
+Screenshots from the app :
+
+![Screenshot_2022-10-07-15-05-18-921_com example todo_list](https://user-images.githubusercontent.com/114262032/194560400-8c4804bd-e611-41f1-b77a-1303ae44d3d0.jpg)
+
+![Screenshot_2022-10-07-15-05-08-111_com example todo_list](https://user-images.githubusercontent.com/114262032/194560428-030e7dfc-38df-42ee-9ea6-6f980aa7110a.jpg)
+
 
 ## Getting Started
 
